@@ -43,12 +43,22 @@ filter: "#N California Trip"
 	- Thursday
 		- AirBnB - Check Out 11 AM
 - Sonoma Valley, July 25-30
+	- Wineries (2 per day, no more than 1 reservation per day)
+		- [Benziger Family Winery](https://www.benziger.com/) - tractor tram tour
+		- [Oasis By Hoopes — Hoopes Vineyard](https://www.hoopesvineyard.com/oasis-by-hoopes) - farm, animal sanctuary, garden and winery
+		- [Matanzas Creek](https://www.matanzascreek.com/) - lavender
+		- [Alexander Valley Vineyards](https://www.avvwine.com/)
+		- [Abbot's Passage Winery & Mercantile](https://www.abbotspassage.com/)
+		- [Cornerstone](https://www.cornerstonesonoma.com/)
 	- Thursday
 		- AirBnB - Check In 3 PM
 			- 15108 Canyon 2 Rd, Guerneville, CA 95446, USA
 	- Friday
+		- 3:16 PM - Seated Reserve Tasting with Charcuterie Plate at [Castello di Amorosa](https://castellodiamorosa.com/)
 	- Saturday
+		- 12 PM - Picnic Table Reservation at [Preston Farm and Winery](https://prestonfarmandwinery.com/)
 	- Sunday
+		- 11 AM - Summer Sundays Picnic at [DeLoach Vineyards -](https://deloachvineyards.com/)
 	- Monday
 		- AirBnB - Check Out 11 AM
 		- [SpringHill Suites Oakland Airport](https://www.marriott.com/en-us/hotels/oaksp-springhill-suites-oakland-airport/overview/)
